@@ -13,6 +13,12 @@ body {
    position: absolute;
    margin: 20px;
    width: auto;
+
+
+ }
+
+ #nachricht{
+   font-family: arial;
  }
 
  .label{
