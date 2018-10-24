@@ -54,8 +54,19 @@ body {
   font-family: arial;
   font-size: 15px;
 }
-
-#lland{
+#ort{
+  font-family: arial;
+  font-size: 15px;
+}
+#Alter{
+  font-family: arial;
+  font-size: 15px;
+}
+#Zeitraum{
+  font-family: arial;
+  font-size: 15px;
+}
+#Land{
   font-family: arial;
   font-size: 15px;
 }
