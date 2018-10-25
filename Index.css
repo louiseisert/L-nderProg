@@ -28,6 +28,7 @@ body{
    margin-left: 100px;
    font-family: arial;
    font-size: 15px;
+   color: white;
  }
 
  .feld{
@@ -42,48 +43,62 @@ body{
   font-family: arial;
   margin-left: 100px;
   font-size: 15px;
+  color: black;
 }
 
  #nachricht{
    font-family: arial;
    font-size: 15px;
-   padding: 14px 16px;
+   padding: 14px 16px
+   color: white;
  }
 
 #absender{
   font-family: arial;
   font-size: 15px;
   padding: 14px 16px;
+  color: white;
 }
 
 #land{
   font-family: arial;
   font-size: 15px;
   padding: 14px 16px;
+  color: white;
 }
 
 #name{
   font-family: arial;
   font-size: 15px;
+  color: white;
 }
+
+#Bewertung{
+  color: white;
+}
+
 #ort{
   font-family: arial;
   font-size: 15px;
   padding: 14px 16px;
+  color: white;
 }
 #alter{
   font-family: arial;
   font-size: 15px;
   padding: 14px 16px;
+  color: white;
 }
 #zeitraum{
   font-family: arial;
   font-size: 15px;
   padding: 14px 16px;
+  color: white;
 }
 #Land{
   font-family: arial;
   font-size: 15px;
+  color: white;
 }
 
 #bewertung{
