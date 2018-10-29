@@ -1,4 +1,6 @@
 
+
+
 function calc(){
   var n1 = parseInt(document.getElementById('n1').value);
   var n11 = parseInt(document.getElementById('n11').value);
@@ -30,6 +32,23 @@ function calc(){
   var n27 = parseInt(document.getElementById('n27').value);
   var n37 = parseInt(document.getElementById('n37').value);
 
+  if(document.getElementById('n16').value >=63){
+    document.getElementById('n17').value = 35;
+  }else{
+    document.getElementById('n17').value= 0;
+  };
+
+  if(document.getElementById('n26').value >=63){
+    document.getElementById('n27').value = 35;
+  }else{
+    document.getElementById('n27').value= 0;
+  };
+
+  if(document.getElementById('n36').value >=63){
+    document.getElementById('n37').value = 35;
+  }else{
+    document.getElementById('n37').value= 0;
+  };
 
   var n18 = document.getElementById('n18').value = n16+ n17;
   var n28 = document.getElementById('n28').value = n26+ n27;
