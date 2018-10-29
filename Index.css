@@ -224,3 +224,7 @@ background-size: cover;
 .dropdown:hover .dropdown-content {
  display: block;
 }
+
+#fertigbutton{
+  width: 150px;
+}

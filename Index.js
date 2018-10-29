@@ -1,3 +1,4 @@
+
 function calc(){
   var n1 = parseInt(document.getElementById('n1').value);
   var n11 = parseInt(document.getElementById('n11').value);
@@ -13,12 +14,12 @@ function calc(){
   var n24 = parseInt(document.getElementById('n24').value);
   var n25 = parseInt(document.getElementById('n25').value);
 
-  var n3 = parseInt(document.getElementById('n21').value);
-  var n31 = parseInt(document.getElementById('n21').value);
-  var n32 = parseInt(document.getElementById('n22').value);
-  var n33 = parseInt(document.getElementById('n23').value);
-  var n34 = parseInt(document.getElementById('n24').value);
-  var n35 = parseInt(document.getElementById('n25').value);
+  var n3 = parseInt(document.getElementById('n3').value);
+  var n31 = parseInt(document.getElementById('n31').value);
+  var n32 = parseInt(document.getElementById('n32').value);
+  var n33 = parseInt(document.getElementById('n33').value);
+  var n34 = parseInt(document.getElementById('n34').value);
+  var n35 = parseInt(document.getElementById('n35').value);
 
 
   var n16 = document.getElementById('n16').value = n1 + n11 + n12 + n13 + n14 + n15;
@@ -62,4 +63,15 @@ function calc(){
   var n298 = document.getElementById('n298').value = n26 + n27;
   var n299 = document.getElementById('n299').value = n297 + n298;
 
+  var n39 = parseInt(document.getElementById('n39').value);
+  var n391 = parseInt(document.getElementById('n391').value);
+  var n392 = parseInt(document.getElementById('n392').value);
+  var n393 = parseInt(document.getElementById('n393').value);
+  var n394 = parseInt(document.getElementById('n394').value);
+  var n395 = parseInt(document.getElementById('n395').value);
+  var n396 = parseInt(document.getElementById('n396').value);
+
+  var n397 = document.getElementById('n397').value = n39 + n391 + n392 + n393 + n394 + n395 + n396;
+  var n398 = document.getElementById('n398').value = n36 + n37;
+  var n399 = document.getElementById('n399').value = n397 + n398;
 }
